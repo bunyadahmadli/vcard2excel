@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 14.7.1//EN
+N:;ahmet mehmet;;;
+FN:ahmet mehmet
+TEL;type=CELL;type=VOICE;type=pref:+90555555555
+REV:2021-10-19T17:00:12Z
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 14.2//EN
+N:;ahmet mehmet;;;
+FN:ahmet mehmet
+item1.TEL;type=pref:+90555555555
+TEL;type=CELL;type=VOICE:+90555555555
+item2.TEL:9718
+REV:2021-04-20T09:18:43Z
+X-IMAGETYPE:PHOTO
+END:VCARD
